@@ -38,3 +38,6 @@ While this repo demonstrates a simple project config on Bitrise, there are many 
 - [Running tests in Visual Studio App Center](https://devcenter.bitrise.io/testing/run-your-tests-in-the-app-center/)
 - [Measuring your code coverage with Codecov](https://devcenter.bitrise.io/testing/measuring-your-code-coverage-with-codecov/)
 hdfhsydehde
+
+af
+hadefhasehfraehaeh
