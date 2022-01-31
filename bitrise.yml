@@ -10,7 +10,7 @@ trigger_map:
 app:
   envs:
   - opts:
-      is_expand: false
+      is_expand: true
     PROJECT_LOCATION: .
   - opts:
       is_expand: false
